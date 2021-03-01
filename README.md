@@ -1,3 +1,2 @@
 # SDVJavaScript
-## Week Two
-
+##   week two
