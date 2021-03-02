@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/alikahwaji/SDVJavaScript/issues"
   },
-  "homepage": "https://github.com/alikahwaji/SDVJavaScript#readme"
+  "homepage": "https://github.com/alikahwaji/SDVJavaScript#readme",
+  "dependencies": {
+    "markdown": "^0.5.0"
+  }
 }
