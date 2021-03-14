@@ -1,16 +1,10 @@
-console.log('Hello')
-console.log('World')
+console.log("Hello Ali")
+console.log('Welcome')
+console.log('Check')
 
-let a = 3
-let b = 2
-let sum = a + b
-
-function add(a, b) {
-  return a + b
+function add(a,b) {
+return a+b
 }
 
-console.log('Aaron where is you lab?')
-
-let x = 10;
-// let sum = add(3, 2)
-// console.log(sum)
+var res = add(10, 11)
+//console.log(res)
